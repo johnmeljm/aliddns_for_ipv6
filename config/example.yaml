@@ -1,0 +1,7 @@
+
+
+domain: "example.com"
+interval: 10 # second
+ali_dns:
+  api_key: "<your api key>"
+  api_secret: "<your api secret>"
